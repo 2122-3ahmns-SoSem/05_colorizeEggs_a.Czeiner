@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: aaf3050fd0b9cf14198f371b776a7bfd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dynOrderValueRed: {instanceID: 0}
+  - dynOrderValueGreen: {instanceID: 0}
+  - dynOrderValueBlue: {instanceID: 0}
+  - dynOrderValueWhite: {instanceID: 0}
+  - dynOrderDoneRed: {instanceID: 0}
+  - dynOrderDoneGreen: {instanceID: 0}
+  - dynOrderDoneBlue: {instanceID: 0}
+  - dynOrderDoneWhite: {instanceID: 0}
+  - parentEggs: {instanceID: 0}
+  - prefabEgg: {instanceID: 0}
+  - doneMsg: {instanceID: 0}
+  - overlay: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
